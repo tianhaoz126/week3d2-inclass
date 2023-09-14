@@ -78,7 +78,11 @@ textarea {
 input[type="submit"] {
     display: block;
     margin: 20px 0 10px 0;
-    width:100px;
+    w
+    width: ;idth:100px;
+}
+main #album img {
+    width: 400px;
 }
 footer {
     height: 40px;
